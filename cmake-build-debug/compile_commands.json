@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/arinsingh/CLionProjects/NetProject1/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/NetProject1.dir/main.c.o -c /home/arinsingh/CLionProjects/NetProject1/main.c",
+  "file": "/home/arinsingh/CLionProjects/NetProject1/main.c",
+  "output": "/home/arinsingh/CLionProjects/NetProject1/cmake-build-debug/CMakeFiles/NetProject1.dir/main.c.o"
+}
+]

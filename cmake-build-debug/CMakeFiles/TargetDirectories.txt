@@ -1,0 +1,3 @@
+/home/arinsingh/CLionProjects/NetProject1/cmake-build-debug/CMakeFiles/NetProject1.dir
+/home/arinsingh/CLionProjects/NetProject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arinsingh/CLionProjects/NetProject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
